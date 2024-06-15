@@ -1,4 +1,4 @@
-# Guild Wars 2 Recipe Calculator
+# Guild Wars 2 Recipe Calculator (Currently incomplete and a work in progress)
 A calculator to take in a specific item, sift through the trading post, and find the most profitable way to utilize the item. Includes an optional local storage of item recipes which is *highly* recommended.
 
 Due to limitations with the Guild Wars 2 API, this will generate quite a few requests when trying to work down the crafting tree. As such, it's recommended to enable to local storage of recipes so that subsequent recipe searches are faster. The first one will likely be delayed from excessive API calls.
